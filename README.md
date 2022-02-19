@@ -11,6 +11,10 @@ JSTAR1019/JSTAR1019 is a ✨ special ✨ repository because its README.md (this 
   AWS Academy Cloud Foundations -
 
    https://www.credly.com/go/WqoaOMfT85L3hC8D2OjMKQ
+   
+  CyberSecurity virtual internship -
+  
+   
 
   
 » 📫 How to reach me: ... 
