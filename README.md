@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there 👋, I am JAI KUMAR CHOUDHARY
 
-<!--
-**JSTAR1019/JSTAR1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JSTAR1019/JSTAR1019 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+» 🔭 I’m currently working on ... Devloping my programming skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+» 🌱 I’m currently learning ... DSA in C++ and Android Development
+
+» 📑 Certification -
+
+  AWS Academy Cloud Foundations -
+
+   https://www.credly.com/go/WqoaOMfT85L3hC8D2OjMKQ
+
+  
+» 📫 How to reach me: ... 
+
+   Gmail - jai51417@gmail.com
