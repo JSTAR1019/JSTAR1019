@@ -14,8 +14,8 @@ JSTAR1019/JSTAR1019 is a ✨ special ✨ repository because its README.md (this 
    
   CyberSecurity virtual internship -
   
+   https://github.com/JSTAR1019/JSTAR1019/blob/main/JAI%20KUMAR%20CHOUDHARY%20(cyber%20security%20certificate).pdf
    
-
   
 » 📫 How to reach me: ... 
 
