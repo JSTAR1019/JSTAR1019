@@ -21,7 +21,6 @@ JSTAR1019/JSTAR1019 is a ✨ special ✨ repository because its README.md (this 
 » 📫 How to reach me: ... 
 
 - <a href="mailto:jai51417@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-- <a href="https://instagram.com/insane_engineer_1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insane_engineer_1729" height="30" width="40" /></a>
 - [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/_inmical_beast)
 - [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/JAI-KUMAR-57a760197)
 - <a href="https://github.com/JSTAR1019" target="_blank">
