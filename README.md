@@ -20,4 +20,9 @@ JSTAR1019/JSTAR1019 is a ✨ special ✨ repository because its README.md (this 
    
 » 📫 How to reach me: ... 
 
-   Gmail - jai51417@gmail.com
+- <a href="mailto:kinshuk2002.king@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+- [<img src = "https://img.shields.io/badge/twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/kinshukbanerje8)
+- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kinshuk-banerjee-117b90206/)
+- <a href="https://github.com/kinshuk-code-1729" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
