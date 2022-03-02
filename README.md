@@ -4,7 +4,7 @@ Hi there 👋, I am JAI KUMAR CHOUDHARY
 
 » 🔭 I’m currently working on ... Devloping my programming skills
 
-» 🌱 I’m currently learning ... DSA in C++ and Android Development
+» 🌱 I’m currently learning ... DSA in C++ , java and Android Development 
 
 » 📑 Certification -
 
