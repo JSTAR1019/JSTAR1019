@@ -1,6 +1,6 @@
 Hi there 👋, I am JAI KUMAR CHOUDHARY
 
-<! JSTAR1019/JSTAR1019 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. !>
+<!--- JSTAR1019/JSTAR1019 is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile. --->
 
 » 🔭 I’m currently working on ... Devloping my programming skills
 
