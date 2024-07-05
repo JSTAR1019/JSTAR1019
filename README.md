@@ -13,7 +13,7 @@
 - 📫 How to reach me : 
 - <a href="mailto:jaikumar.c1019@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 - [<img src="https://img.shields.io/badge/linkedin-430098?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jai-kumar-choudhary/)
-- <a href="https://instagram.com/inmical_beast" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- <a href="https://instagram.com/_inmical_beast" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 ## ✨ Certifications ✨ :
 
@@ -34,7 +34,7 @@
 <a href="https://www.linkedin.com/in/jai-kumar-choudhary/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jai kumar choudhary" height="30" width="40" /></a>
 <!-- <a href="https://twitter.com/intent/follow?screen_name=Kinshuk_1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Kinshuk_1729" height="30" width="40" /></a> -->
 <!-- <a href="https://www.facebook.com/kinshuk.banerjee.90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kinshuk banerjee" height="30" width="40" /></a> -->
-<a href="https://instagram.com/inmical_beast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="inmical_beast" height="30" width="40" /></a>
+<a href="https://instagram.com/_inmical_beast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_inmical_beast" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/jai_1019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jai_1019" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jai_1019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jai_1019" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jai_1019" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jai_1019" height="30" width="40" /></a>
