@@ -1,4 +1,4 @@
-Hi there 👋, I am <h2>JAI KUMAR CHOUDHARY<h2>
+<h1 align="center">Hi there👋, I'm Jai Kumar Choudhary </h1> 
 
 <details open>
 <summary> <h2>About Me ✍</h2></summary>
