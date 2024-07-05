@@ -22,8 +22,8 @@
 [![AWS Academy Graduate - AWS Academy Cloud Foundations](https://images.credly.com/size/110x110/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png)]((https://www.credly.com/badges/6fd3be5c-c5dd-4d85-9290-1f51d564327a/public_url "AWS Academy Graduate - AWS Academy Cloud Foundations")
 [![Cybersecurit Essentialsy](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/ab6a2a78-25c9-4a1c-a8ec-b6ce01ebe065/public_url "Cybersecurity Essentials")
 [![CCNA Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](https://www.credly.com/badges/e8f0bfa3-6abd-4538-932f-35648bbd9840/public_url "Introduction to Networks")
-[![SQL Essentials Bootcamp]](https://lnkd.in/dnstauxW "SQL Essentials Bootcamp")
-[![C++ Essentials Bootcamp]](https://lnkd.in/d6wkb9tt "C++ Essentials Bootcamp")
+[![SQL Essentials Bootcamp]](https://https://verify.letsupgrade.in/certificate/LUESQLFEB123264 "SQL Essentials Bootcamp")
+[![C++ Essentials Bootcamp]](https://verify.letsupgrade.in/certificate/LUECPPJAN123237 "C++ Essentials Bootcamp")
 
 
 
