@@ -3,11 +3,11 @@
 <details open>
 <summary> <h2>About Me ✍</h2></summary>
     
-- 🔭 I’m currently working on **React js**
+- 🔭 I’m currently working on **JAVA Full Stack Development.**
 
-- 🌱 I’m currently learning **JAVA Full Stack Development.**
+- 🌱 I’m currently learning **Back-end frameworks: Spring and Hibernate.**
 
-- 👀 I’m interested in **JAVA Full Stack Development and Full Stack Web Development.**
+- 👀 I’m interested in **JAVA Full Stack Development .**
 </details>
 
 - 📫 How to reach me : 
